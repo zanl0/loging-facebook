@@ -1,0 +1,95 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+.body{
+font-family: Arial, Helvetica, sans-serif;
+background-color: #f0f2f5;
+padding: 72px 112px;
+}
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.imajen1{
+    height: 106px;
+    margin: -28px;
+}
+.caja1{
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+    
+}
+
+
+.texto{
+    max-width: 1075;
+    font-size: 24px;
+    line-height: 28px;
+    width: auto;
+}
+.caja2{
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+    float: none;
+    margin: 0 auto;
+}
+.iniciods{
+    background-color: #0866ff;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+}
+
+
+.barracorreo{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+}
+.aa{
+ display: flex;
+ padding: 1%;
+ 
+    
+}
+.iniciods{
+    display: flex;
+    margin: auto;
+    margin-top: 16px;
+    padding-block: 1%;
+
+}
+.link{
+    display: flex;
+    margin: auto;
+    margin-top: 16px;
+}
+
+.botoncuenta{
+    padding-top: 3%;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 12 16px;
+    background-color: #42b72a;
+    color: #fff;
+}

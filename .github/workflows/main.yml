@@ -39,4 +39,4 @@ jobs:
         run: aws s3 rm s3://facebock-login
 
       - name: aws s3 upload archives
-        run: aws s3 cp ./dist/workflows/browser s3://facebock-login
+        run: aws s3 cp ./dist/.github/workflows s3://facebock-login

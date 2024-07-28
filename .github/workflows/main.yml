@@ -39,4 +39,4 @@ jobs:
         run: aws s3 rm s3://clasebit --recursive
 
       - name: aws s3 upload archives
-        run: aws s3 cp ./dist/clasebit/browser s3://clasebit --recursive
+        run: aws s3 cp ./dist/facebock-login/browser s3://clasebit --recursive
